@@ -80,7 +80,7 @@
   transform: translateY(100%);
   transition-property: transform;
   transition-duration: 250ms;
-  transition-timing-function: CubicBezier;
+  transition-timing-function: $cubicBezier;
 }
 
 .overlay > p {
